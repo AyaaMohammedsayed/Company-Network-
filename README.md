@@ -5,7 +5,7 @@ This project demonstrates the design and implementation of a secure and efficien
 ## Network Topology  
 Below is the network topology designed for the project:  
 
-![Network Topology](network_topology.png)  
+![Network Topology](https://github.com/AyaaMohammedsayed/Company-Network-/blob/main/Netwrok%20Design.png)  
 
 ## Project Overview  
 The network design includes the following key features:  
